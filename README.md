@@ -8,9 +8,9 @@ How to run:
 
 # file-tree
 
-app
-|  .editorconfig
-|   bs-config.json
+>app
+>|  .editorconfig
+>|   bs-config.json
 |   package.json
 |   tree-files.txt
 |   tslint.json
