@@ -9,7 +9,7 @@ How to run:
 # file-tree
 
 app
-|   .editorconfig
+|  .editorconfig
 |   bs-config.json
 |   package.json
 |   tree-files.txt
