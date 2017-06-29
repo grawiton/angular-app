@@ -1,5 +1,7 @@
 # angular-app
 
+Simple application in Angular
+
 How to run:
 
 1. Download all files
